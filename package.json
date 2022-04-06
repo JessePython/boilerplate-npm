@@ -11,5 +11,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Jesse Clem"
+	"author": {
+		"name": "Jesse Clem"
+	}
 }
